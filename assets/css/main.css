@@ -1282,7 +1282,7 @@ h6 {
   top: 50%;
   width: auto;
   padding: 16px;
-  margin-top: -150px;
+  margin-top: -270px;
   color: white;
   font-weight: bold;
   font-size: 20px;
@@ -1390,4 +1390,10 @@ body {
 @keyframes end {
   0%, 100% { box-shadow: 0 0 30px 0px rgb(0, 238, 255); }
   50% { box-shadow: 0 0 55px 5px rgb(0, 238, 255); }
+}
+.offer{
+  text-align: center;
+  padding-top: 50px;
+  font-family: var(--font-secondary);
+  font-weight: bold;
 }
